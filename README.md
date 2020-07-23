@@ -1,7 +1,7 @@
 
 # `npx srnerturk`
 
-![serhan ertürk](https://pbs.twimg.com/profile_images/1131085448711999488/RWzXGQps_200x200.jpg)
+![serhan ertürk](https://avatars3.githubusercontent.com/u/19576688?s=3000&u=d7938daf306329c0f6837b736f749210b4cf796e&v=4)
 
 Hello, my name is **Serhan Ertürk**
 
