@@ -1,0 +1,26 @@
+{
+  "name": "srnerturk",
+  "bin": {
+    "srnerturk": "my.js"
+  },
+  "keywords": [
+    "srnerturk",
+    "serhanerturk",
+    "serhan erturk"
+  ],
+  "version": "1.0.0",
+  "description": "who is srnerturk",
+  "main": "my.js",
+  "author": "serhan erturk <srnerturk@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "got": "^11.5.0",
+    "inquirer": "^7.3.0",
+    "open": "6.0.0",
+    "terminal-image": "^1.1.0",
+    "terminal-link": "^2.1.1",
+    "word-wrap": "^1.2.3"
+  }
+}
